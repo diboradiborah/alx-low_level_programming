@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * factorial - Returns the factorial of a given number.
