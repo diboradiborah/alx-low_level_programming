@@ -1,1 +1,1 @@
-malloc fre
+malloc free
